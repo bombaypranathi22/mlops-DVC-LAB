@@ -2,3 +2,4 @@ DVC_Lab/
 *.dvcignore
 *.json
 .dvc/cache/
+.dvc/tmp/
