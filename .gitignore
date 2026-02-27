@@ -1,5 +1,11 @@
 DVC_Lab/
 *.dvcignore
-*.json
 .dvc/cache/
 .dvc/tmp/
+
+# Sensitive/local config
+config/dvc-lab.json
+.dvc/config.local
+
+# OS artifacts
+.DS_Store
